@@ -1,0 +1,42 @@
+br/com/zup/ErrorDetailsOrBuilder.java
+ br.com.zup.ErrorDetailsOrBuilder
+br/com/zup/FretesRequestOrBuilder.java
+ br.com.zup.FretesRequestOrBuilder
+br/com/zup/CalculaFreteRequest.java
+ br.com.zup.CalculaFreteRequest
+ br.com.zup.CalculaFreteRequest$1
+ br.com.zup.CalculaFreteRequest$Builder
+br/com/zup/Fretes.java
+ br.com.zup.Fretes
+br/com/zup/CalculaFreteResponseOrBuilder.java
+ br.com.zup.CalculaFreteResponseOrBuilder
+br/com/zup/FretesReplyOrBuilder.java
+ br.com.zup.FretesReplyOrBuilder
+br/com/zup/FretesRequest.java
+ br.com.zup.FretesRequest
+ br.com.zup.FretesRequest$1
+ br.com.zup.FretesRequest$Builder
+br/com/zup/FretesServiceGrpc.java
+ br.com.zup.FretesServiceGrpc
+ br.com.zup.FretesServiceGrpc$FretesServiceBaseDescriptorSupplier
+ br.com.zup.FretesServiceGrpc$FretesServiceBlockingStub
+ br.com.zup.FretesServiceGrpc$FretesServiceFileDescriptorSupplier
+ br.com.zup.FretesServiceGrpc$FretesServiceFutureStub
+ br.com.zup.FretesServiceGrpc$FretesServiceImplBase
+ br.com.zup.FretesServiceGrpc$FretesServiceMethodDescriptorSupplier
+ br.com.zup.FretesServiceGrpc$FretesServiceStub
+ br.com.zup.FretesServiceGrpc$MethodHandlers
+br/com/zup/CalculaFreteResponse.java
+ br.com.zup.CalculaFreteResponse
+ br.com.zup.CalculaFreteResponse$1
+ br.com.zup.CalculaFreteResponse$Builder
+br/com/zup/ErrorDetails.java
+ br.com.zup.ErrorDetails
+ br.com.zup.ErrorDetails$1
+ br.com.zup.ErrorDetails$Builder
+br/com/zup/CalculaFreteRequestOrBuilder.java
+ br.com.zup.CalculaFreteRequestOrBuilder
+br/com/zup/FretesReply.java
+ br.com.zup.FretesReply
+ br.com.zup.FretesReply$1
+ br.com.zup.FretesReply$Builder
